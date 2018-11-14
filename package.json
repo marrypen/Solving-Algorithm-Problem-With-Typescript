@@ -1,0 +1,24 @@
+{
+  "name": "solving-algorithm-problem-with-typescript",
+  "version": "1.0.0",
+  "description": "self practice for solving algorithm problems with typescript(or javascript)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marrypen/Solving-Algorithm-Problem-With-Typescript.git"
+  },
+  "keywords": [
+    "algorithm",
+    "typescript",
+    "javascript"
+  ],
+  "author": "pengyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marrypen/Solving-Algorithm-Problem-With-Typescript/issues"
+  },
+  "homepage": "https://github.com/marrypen/Solving-Algorithm-Problem-With-Typescript#readme"
+}
